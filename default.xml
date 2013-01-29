@@ -25,58 +25,14 @@
   <project path="cts" name="cts" remote="baked" revision="jb-4.2" />
   <project path="dalvik" name="dalvik" remote="baked" revision="jb-4.2"/>
   <project path="development" name="development" remote="baked" revision="jb-4.2" />
-  <project path="device/asus/grouper" name="device_asus_grouper" remote="baked" revision="jb-4.2" />
-  <project path="device/asus/tf201" name="device_asus_tf201" remote="baked" revision="jb-4.2" />
-  <project path="device/asus/tf300t" name="device_asus_tf300t" remote="baked" revision="jb-4.2" />
-  <project path="device/asus/tf700t" name="device_asus_tf700t" remote="baked" revision="jb-4.2" />
   <project path="device/common" name="device_common" remote="baked" revision="jb-4.2" />
-  <project path="device/htc/endeavoru" name="device_htc_endeavoru" remote="baked" revision="jb-4.2" />
-  <project path="device/htc/ville" name="device_htc_ville" remote="baked" revision="jb-4.2" />
-  <project path="device/htc/msm8960-common" name="device_htc_msm8960-common" remote="baked" revision="jb-4.2" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
-  <project path="device/lge/mako" name="device_lge_mako" remote="baked" revision="jb-4.2" />
-  <project path="device/moto/common" name="device_moto_common" remote="baked" revision="jb-4.2" />
-  <project path="device/moto/stingray" name="device_moto_stingray" remote="baked" revision="jb-4.2" />
-  <project path="device/moto/wingray" name="device_moto_wingray" remote="baked" revision="jb-4.2" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/aries-common" name="device_samsung_aries-common" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/captivatemtd" name="device_samsung_captivatemtd" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/crespo" name="device_samsung_crespo" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/crespo4g" name="device_samsung_crespo4g" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/d2-common" name="device_samsung_d2-common" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/d2att" name="device_samsung_d2att" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/d2mtr" name="device_samsung_d2mtr" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/d2spr" name="device_samsung_d2spr" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/d2tmo" name="device_samsung_d2tmo" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/d2usc" name="device_samsung_d2usc" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/d2vzw" name="device_samsung_d2vzw" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/fascinatemtd" name="device_samsung_fascinatemtd" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/galaxysmtd" name="device_samsung_galaxysmtd" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/i9300" name="device_samsung_i9300" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/manta" name="device_samsung_manta" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/mesmerizemtd" name="device_samsung_mesmerizemtd" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/msm8660-common" name="device_samsung_msm8660-common" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/n80xx-common" name="device_samsung_n80xx-common" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/n8000" name="device_samsung_n8000" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/n8013" name="device_samsung_n8013" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/p3100" name="device_samsung_p3100" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/p3110" name="device_samsung_p3110" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/p4-common" name="device_samsung_p4-common" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/p5wifi" name="device_samsung_p5wifi" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/qcom-common" name="device_samsung_qcom-common" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/showcasemtd" name="device_samsung_showcasemtd" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/smdk4412-common" name="device_samsung_smdk4412-common" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/tuna" name="device_samsung_tuna" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/vibrantmtd" name="device_samsung_vibrantmtd" remote="baked" revision="jb-4.2" />
-  <project path="device/ti/panda" name="device/ti/panda" />
+  <project path="device/samsung/i9100g" name="device_samsung_i9100g" remote="baked" revision="jb-4.2" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="external_aac" remote="baked" revision="jb-4.2" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -406,36 +362,14 @@
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
-  <project path="vendor/akm" name="vendor_akm" remote="baked" revision="jb-4.2" />
-  <project path="vendor/asus" name="vendor_asus" remote="baked" revision="jb-4.2" />
-  <project path="vendor/audience" name="vendor_audience" remote="baked" revision="jb-4.2" />
   <project path="vendor/baked" name="vendor_baked" remote="baked" revision="jb-4.2" />
   <project path="vendor/baked/bot" name="pseudo_buildbot" remote="baked" revision="jb-4.2" />
   <project path="vendor/broadcom" name="vendor_broadcom" remote="baked" revision="jb-4.2" />
-  <project path="vendor/elan" name="vendor_elan" remote="baked" revision="jb-4.2" />
-  <project path="vendor/htc" name="vendor_htc" remote="baked" revision="jb-4.2" />
-  <project path="vendor/imgtec" name="vendor_imgtec" remote="baked" revision="jb-4.2" />
-  <project path="vendor/invensense" name="vendor_invensense" remote="baked" revision="jb-4.2" />
-  <project path="vendor/lge/mako" name="vendor_lge_mako" remote="baked" revision="jb-4.2" />
-  <project path="vendor/moto" name="vendor_moto" remote="baked" revision="jb-4.2" />
-  <project path="vendor/nvidia" name="vendor_nvidia" remote="baked" revision="jb-4.2" />
-  <project path="vendor/nxp" name="vendor_nxp" remote="baked" revision="jb-4.2" />
   <project path="vendor/samsung" name="vendor_samsung" remote="baked" revision="jb-4.2" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="vendor_tmobile_apps_ThemeChooser" remote="baked" revision="jb-4.2"/>
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="vendor_tmobile_libs_com.tmobile.themes" remote="baked" revision="jb-4.2" />
   <project path="vendor/tmobile/providers/ThemeManager" name="vendor_tmobile_providers_ThemeManager" remote="baked" revision="jb-4.2" />
   <project path="vendor/tmobile/products/themes" name="vendor_tmobile_products_themes" remote="baked" revision="jb-4.2" />
-  <project path="vendor/verizon" name="vendor_verizon" remote="baked" revision="jb-4.2" />
-  <project path="vendor/widevine" name="vendor_widevine" remote="baked" revision="jb-4.2" />
-
-  <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="cm" revision="cm-10.1" />
-  <project path="kernel/asus/tf201" name="kernel_asus_tf201" remote="baked" revision="jb-4.2" />
-  <project path="kernel/asus/tf700t" name="kernel_asus_tf700t" remote="baked" revision="jb-4.2" />
-  <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
-  <project path="kernel/moto/wingray" name="kernel_moto_wingray" remote="baked" revision="jb-4.2" />
-  <project path="kernel/samsung/aries" name="android_kernel_samsung_aries" remote="cm" revision="cm-10.1" />
-  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
-  <project path="kernel/samsung/p5" name="kernel_samsung_p5" remote="baked" revision="jb-4.2" />
-  <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="cm" revision="cm-10.1" />
-  <project path="kernel/samsung/espresso10" name="android_kernel_samsung_espresso10" remote="cm" revision="cm-10.1" />
+  
+  <project path="kernel/samsung/t1" name="android_kernel_samsung_t1" remote="cm" revision="cm-10.1" />
 </manifest>
